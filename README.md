@@ -1,6 +1,10 @@
 # MIRB: Mathematical Information Retrieval Benchmark
 
-This project is a fork of [MTEB(1.28.0)](https://github.com/embeddings-benchmark/mteb/tree/1.28.0) with modifications to handle dynamic corpus. We thank the original authors for their work.
+![MIRB Overview](pictures/overview.svg)
+
+[**MIRB**](https://arxiv.org/abs/2505.15585) (**M**athematical **I**nformation **R**etrieval **B**enchmark) is a benchmark designed to evaluate the performance of retrieval models on mathematical information retrieval tasks. The dataset is available at HuggingFace [MIRB](https://huggingface.co/collections/hcju/mirb-6827001711765454f58c5a76).
+
+> **Note**: This project is a fork of [MTEB(1.28.0)](https://github.com/embeddings-benchmark/mteb/tree/1.28.0) with modifications to handle dynamic corpus. We thank the original authors for their work.
 
 ## Installation
 
