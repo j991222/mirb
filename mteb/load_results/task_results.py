@@ -185,7 +185,7 @@ class TaskResult(BaseModel):
         return TaskResult(
             dataset_revision=task.metadata.dataset["revision"],
             task_name=task.metadata.name,
-            mteb_version=version("mteb"),
+            mteb_version=version("mirb"),
             scores=flat_scores,
             evaluation_time=evaluation_time,
             kg_co2_emissions=kg_co2_emissions,

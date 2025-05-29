@@ -1,6 +1,8 @@
-# MIRB: Mathematical Information Retrieval Benchmark
+<h1 align="center">MIRB: Mathematical Information Retrieval Benchmark</h1>
 
-![MIRB Overview](pictures/overview.svg)
+<div align="center">
+  <img src="pictures/overview.svg" alt="MIRB Overview" width="70%">
+</div>
 
 [**MIRB**](https://arxiv.org/abs/2505.15585) (**M**athematical **I**nformation **R**etrieval **B**enchmark) is a benchmark designed to evaluate the performance of retrieval models on mathematical information retrieval tasks. The dataset is available at HuggingFace [MIRB](https://huggingface.co/collections/hcju/mirb-6827001711765454f58c5a76).
 

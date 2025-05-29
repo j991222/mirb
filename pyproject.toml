@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mirb"
-version = "0.1.0"
+version = "1.28.0"
 description = "Mathematical Information Retrieval Benchmark"
 readme = "README.md"
 authors = [

@@ -18,7 +18,7 @@ from mteb.overview import TASKS_REGISTRY, get_task, get_tasks
 from .benchmarks.benchmarks import Benchmark
 from .benchmarks.get_benchmark import BENCHMARK_REGISTRY, get_benchmark, get_benchmarks
 
-__version__ = version("mteb")  # fetch version from install metadata
+__version__ = version("mirb")  # fetch version from install metadata
 
 
 __all__ = [
